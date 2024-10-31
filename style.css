@@ -1,0 +1,44 @@
+h1 {
+    color: rebeccapurple;
+    text-align: center;
+}
+#header {
+    background-color: aqua;
+    height: 125px;
+    padding: 5px;
+}
+.desk {
+    text-align: center;
+}
+.menu li{
+    display: inline;
+    margin: 40px;
+}
+.menu a{
+    margin-left: 200px;
+}
+.menu a:hover{
+    font-weight: bold;
+    color: rgb(128, 9, 240);
+}
+.isi::first-letter{
+    color: blue;
+    font-size: 40px;
+}
+.koleksi{
+    background-color: black;    
+}
+.koleksi img{
+    width: 23%;
+}
+.gambar{
+    background-color: black;
+    width: 23%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    float: right;
+}
+.promo {
+    background-color:bisque;
+}
